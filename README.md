@@ -79,4 +79,4 @@ Vrinda-Store-Sales-Report-2022/
 
 **Sambit Kumar Sahu**
 
-Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, Power BI, SQL, and Python.
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Excel, Power BI, Tableau, SQL, and Python.
