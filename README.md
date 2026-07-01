@@ -14,7 +14,8 @@ To analyze the 2022 sales data of Vrinda Store and provide actionable insights t
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard-Preview.png)
+![Dashboard Preview](<img width="1208" height="548" alt="vrinda store sales report 2022 image" src="https://github.com/user-attachments/assets/658a7e58-67ae-4ca9-9558-453b320f6846" />
+)
 
 ---
 
